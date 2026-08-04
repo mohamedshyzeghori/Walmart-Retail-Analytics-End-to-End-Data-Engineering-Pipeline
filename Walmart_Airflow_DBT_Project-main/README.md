@@ -27,6 +27,10 @@ Raw retail data (customers, orders, products, stores, employees, order items) ty
 ---
 
 ## Architecture
+<img width="905" height="422" alt="Screenshot 2026-08-04 192540" src="https://github.com/user-attachments/assets/95fba43f-8201-4a85-849b-1b1368060685" />
+
+
+
 
 ```
 ┌─────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
