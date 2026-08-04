@@ -251,23 +251,6 @@ docker exec -it airflow_scheduler airflow dags trigger orchestrate
 
 ---
 
-## Future Improvements
-
-- [ ] Add Great Expectations for advanced statistical profiling (null distributions, range checks)
-- [ ] Implement CI/CD with GitHub Actions: `dbt build` on pull requests
-- [ ] Generate dbt Docs and host lineage graph on GitHub Pages
-- [ ] Add OpenLineage integration for cross-tool observability
-- [ ] Migrate from static CDC task to Databricks Auto Loader for true incremental ingestion
-- [ ] Add data contracts (YAML schema definitions) at the Bronze layer
 
 ---
 
-## About
-
-Built by a Data Engineer at HCLTech transitioning from backend development into data engineering. This project reflects my focus on **reliable, tested, and observable** pipelines.
-
-> *"Data engineering is not just about moving data — it's about building trust in data."*
-
----
-
-**License:** MIT — Built for educational and portfolio purposes. Feel free to fork and extend.
